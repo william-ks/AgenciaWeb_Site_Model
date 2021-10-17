@@ -32,6 +32,12 @@ const MidPage = styled.div`
         align-items: center;
         height: 100%;
     }
+
+    @media screen and (max-width: 550px) {
+        h3{
+            font-size: 1.2em;
+        }
+    }
 `;
 
 const BotPage = styled.div`
@@ -121,6 +127,10 @@ const Content = styled.div`
             margin: 20px 0;
         }
     }
+
+    
+
+    
 `;
 
 const Team = () => {

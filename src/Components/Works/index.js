@@ -81,18 +81,18 @@ const Works = () => {
 
                 <div className="box-wrapper">
 
-                    <a href="" className="box-single">
-                        <div className="imgTittle"><img src={lojaVirtual} /></div>
+                    <a href="/" className="box-single">
+                        <div className="imgTittle"><img src={lojaVirtual} alt="nothing" /></div>
                         <h3>Criação de Lojas Virtuais e E-commerce</h3>
                     </a>
 
-                    <a href="" className="box-single">
-                        <div className="imgTittle"><img src={site} /></div>
+                    <a href="/" className="box-single">
+                        <div className="imgTittle"><img src={site} alt="nothing" /></div>
                         <h3>Criação Blogs, Landing Pages, Sites Institucionais, Site de Afiliado</h3>
                     </a>
 
-                    <a href="" className="box-single">
-                        <div className="imgTittle"><img src={pwa} /></div>
+                    <a href="/" className="box-single">
+                        <div className="imgTittle"><img src={pwa} alt="nothing" /></div>
                         <h3>Criação de Sites que podem ser instalados como aplicativo</h3>
                     </a>
 

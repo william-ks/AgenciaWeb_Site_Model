@@ -32,7 +32,7 @@ const Footer = () => {
         <Styled>
             <div className="center">
                 <h3>
-                    Site Desenvolvido por <a href="">@William_Krisley</a>
+                    Site Desenvolvido por <a href="/">@William_Krisley</a>
                 </h3>
             </div>
         </Styled>

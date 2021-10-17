@@ -24,6 +24,12 @@ const Image = styled.div`
         text-shadow: 1px 1px 2px black;
     }
 
+    @media screen and (max-width: 550px) {
+        h2{
+            font-size: 1.2em;
+        }
+    }
+
 `;
 
 const Styled = styled.section`
@@ -119,6 +125,9 @@ const Styled = styled.section`
         border-bottom: 6px solid #023052;
         transform:scale(1.05)
     }
+
+    
+
 `;
 
 const Contact = () => {
@@ -135,9 +144,9 @@ const Contact = () => {
                 <div className="center">
                     <Tittle>Contato</Tittle>
 
-                    <form>
-                        <input type="text" autocomplete="off" name="nome" placeholder="Nome..." required/>
-                        <input type="email" autocomplete="off" name="email" placeholder="E-mail..." required/>
+                    <form method="POST">
+                        <input type="text" name="nome" placeholder="Nome..." required/>
+                        <input type="email" name="email" placeholder="E-mail..." required/>
                         <textarea placeholder="Mensagem..."></textarea>
 
                         <input type="submit" value="Enviar" name="acao" />
