@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c8a593f.chunk.css",
+    "main.js": "/static/js/main.2e890302.chunk.js",
+    "main.js.map": "/static/js/main.2e890302.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.565e7aa1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.565e7aa1.js.map",
+    "static/js/2.b1a56517.chunk.js": "/static/js/2.b1a56517.chunk.js",
+    "static/js/2.b1a56517.chunk.js.map": "/static/js/2.b1a56517.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4c8a593f.chunk.css.map": "/static/css/main.4c8a593f.chunk.css.map",
+    "static/js/2.b1a56517.chunk.js.LICENSE.txt": "/static/js/2.b1a56517.chunk.js.LICENSE.txt",
+    "static/media/bg.631d496a.jpg": "/static/media/bg.631d496a.jpg",
+    "static/media/bg.c010adfc.jpg": "/static/media/bg.c010adfc.jpg",
+    "static/media/bla.7bc27011.jfif": "/static/media/bla.7bc27011.jfif",
+    "static/media/couple.1f062f74.jpg": "/static/media/couple.1f062f74.jpg",
+    "static/media/lojavirtual.0b621b53.svg": "/static/media/lojavirtual.0b621b53.svg",
+    "static/media/style.css": "/static/media/sun.b288121d.svg",
+    "static/media/pwa.2008fc33.svg": "/static/media/pwa.2008fc33.svg",
+    "static/media/site.071bee09.svg": "/static/media/site.071bee09.svg",
+    "static/media/vector.b6357e27.jpg": "/static/media/vector.b6357e27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.565e7aa1.js",
+    "static/js/2.b1a56517.chunk.js",
+    "static/css/main.4c8a593f.chunk.css",
+    "static/js/main.2e890302.chunk.js"
+  ]
+}
